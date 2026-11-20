@@ -1,0 +1,37 @@
+{
+  "name": "tower-princess",
+  "displayName": "Tower Princess",
+  "description": "A dark VS Code theme with midnight purples, lavender and lantern gold.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "purple",
+    "gold"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/tower-princess"
+  },
+  "galleryBanner": {
+    "color": "#15101f",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tower Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tower-princess-color-theme.json"
+      }
+    ]
+  }
+}
