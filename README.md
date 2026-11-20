@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Tower Princess" width="320">
+</p>
+
 # Tower Princess
 
 A dark VS Code theme with midnight purples, lavender and lantern gold.
