@@ -10,6 +10,8 @@ A dark VS Code theme with midnight purples, lavender and lantern gold.
 
 ## Palette
 
+![Tower Princess palette](images/palette.png)
+
 |  | Role | Color |
 | --- | --- | --- |
 | <img src="images/swatches/15101f.png" width="20" height="20" alt="#15101f"> | Editor background | `#15101f` |
