@@ -6,6 +6,8 @@
 
 A dark VS Code theme with midnight purples, lavender and lantern gold.
 
+![Tower Princess theme in a React file](images/screenshot.png)
+
 ## Palette
 
 | Role | Color |
